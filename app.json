@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "expense-tracker",
+    "name": "Expense tracker",
+    "description": "Expense tracker for both ios and android",
     "slug": "expense-tracker",
     "version": "1.0.0",
     "orientation": "portrait",
